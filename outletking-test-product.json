@@ -1,0 +1,55 @@
+[{
+    "price": "1990",
+    "updated_at": "2025-02-19T16:23:42Z",
+    "title": "Helly Hansen Touring Socken",
+    "product_id": "49655614636248",
+    "description": "Die Helly Hansen Touring Socken sind hochwertige Socken aus Merinowolle, die speziell für Outdoor-Aktivitäten und anspruchsvolle Touren entwickelt wurden. Mit ihrem bequemen Sitz und durchdachten Materialmix aus Merinowolle, Polyamid und Elastan bieten sie eine perfekte Kombination aus Wärme, Atmungsaktivität und Langlebigkeit. Die natürliche Feuchtigkeitsregulierung der Merinowolle sorgt für ein angenehmes Fussklima, während die elastischen Fasern eine optimale Passform garantieren. Die Socken sind ideal für Wandern, Trekking und andere Abenteuer in der Natur. Spezielle Verstärkungen bieten zusätzlichen Halt und unterstützen die Bewegungsfreiheit. Sie sind pflegeleicht und sollten mit ähnlichen Farben gewaschen werden, um die Qualität langfristig zu erhalten. Perfekt für alle, die bei kaltem Wetter und langen Touren auf Komfort und Funktionalität setzen.",
+    "images": "https://cdn.shopify.com/s/files/1/0492/6930/9589/files/helly-hansen_67532-949_00-nw0224.jpg?v=1732654124",
+    "category": "Ski Alpin",
+    "variant": {
+        "option_size": [
+            "42-44"
+        ],
+        "image": [
+            "https://cdn.shopify.com/s/files/1/0492/6930/9589/files/helly-hansen_67532-949_00-nw0224.jpg?v=1732654124"
+        ],
+        "option_color": [
+            "Grau"
+        ],
+        "group": [
+            "8743053230296"
+        ]
+    },
+    "gtin": "7040058734017",
+    "stock": "1",
+    "product_type": "Strümpfe",
+    "condition": "new",
+    "attributes": {
+        "sole": [],
+        "insole": [],
+        "heelheight": [],
+        "uvprotection": [],
+        "pantslength": [],
+        "age": [
+            "Erwachsen"
+        ],
+        "model": [
+            "Touring"
+        ],
+        "sleevelength": [],
+        "brand": [
+            "Helly Hansen"
+        ],
+        "material": [],
+        "shoeheight": [],
+        "gender": [
+            "Herren"
+        ],
+        "color": [
+            "Grau"
+        ],
+        "size": [
+            "42-44"
+        ]
+    }
+}]
